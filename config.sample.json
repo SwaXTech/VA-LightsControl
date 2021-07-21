@@ -2,5 +2,6 @@
   "email": "<ewelink@email>",
   "password": "p4ssw0rd",
   "region": "us",
-  "device_id": "<device_id>"
+  "device_id": "<device_id>",
+  "secret_key": "<secret_key>"
 }
